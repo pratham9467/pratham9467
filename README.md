@@ -11,6 +11,6 @@ Hi there! 👋 I'm Pratham Bindal, a software developer and student passionate a
 - 💼 I’m working on DSA and problem solving skills.
 - 📫 How to reach me: LinkedIn.
 - 👯 I’m looking to collaborate on Saas.
-- - 💬 Ask me about ideas.
+- 💬 Ask me about ideas.
 
 ---
