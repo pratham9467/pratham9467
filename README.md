@@ -3,7 +3,7 @@
 ## About Me
 
 
-Hi there! 👋 I'm Pratham Bindal, a software developer and student passionate about building web applications. I’m currently learning **Three.js** to create immersive 3D web experiences.
+Hi there! 👋 I'm Pratham Bindal, a software developer and student passionate about building web applications. I’m currently learning **AI**.
 
 ---
 
